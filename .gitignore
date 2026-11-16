@@ -1,0 +1,6 @@
+@"
+.env
+*.log
+temp/
+node_modules/
+"@ | Set-Content .gitignore
